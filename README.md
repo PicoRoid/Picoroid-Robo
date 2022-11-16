@@ -25,8 +25,8 @@ collected ball through the goal.
 ## Arena
 <img title="Arena" alt="Arena" src="/Assets/Arena_layout.png">
 
-## PICO-ROID Robot Design
-<img title="Picoroid Robot" alt="Arena" src="/Assets/Picoroid_Robot.png">
+## Robot Design
+<img title="Picoroid Robot" alt="Arena" src="/Assets/finalassemble.png">
 
 
 
