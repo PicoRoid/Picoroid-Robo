@@ -22,3 +22,11 @@ the start of the competition.
 assigned. While staying in the restricted space, the robot will have to shoot the 
 collected ball through the goal.
 
+## Arena
+<img title="Arena" alt="Arena" src="/Assets/Arena_layout.png">
+
+## PICO-ROID Robot Design
+<img title="Picoroid Robot" alt="Arena" src="/Assets/Picoroid_Robot.png">
+
+
+
